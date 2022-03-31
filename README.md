@@ -1,1 +1,1 @@
-The main repo
+This is the shell permission project folder
