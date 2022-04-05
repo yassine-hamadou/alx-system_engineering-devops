@@ -2,3 +2,5 @@
 head -3 iacta
 head -3 iacta | tail -1
 head -3 iacta | tail -1 iacta
+head -n 3 iacta | tail -n 1 iacta
+head -n 3 iacta | tail -n 1
