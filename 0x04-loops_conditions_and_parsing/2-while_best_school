@@ -3,6 +3,6 @@
 x=0
 while [ $x -ne 10 ]
 do
-  echo "Holberton School"
+  echo "Best School"
   x=$(( x + 1 ))
 done

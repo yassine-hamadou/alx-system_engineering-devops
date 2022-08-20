@@ -4,6 +4,6 @@
 number=0
 until [ $number -eq 10 ]
 do
-	echo "Holberton School"
+	echo "Best School"
 	number=$(( number + 1 ))
 done
