@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This program displays its own PID
+
+echo "$$"
+
